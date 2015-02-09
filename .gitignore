@@ -1,3 +1,30 @@
+output_files/
+*.ammdb
+*.cdb
+*.rdb
+*.dfp
+*.dpi
+*.idb
+*.hb_info
+*.hdb
+*.kpt
+*.logdb
+*.rcfdb
+*.sig
+.qsys_edit/
+
+# under project roo folder
+*.bak
+*.bsf
+*.html
+*.cmp
+*.jdi
+*.qarlog
+*.rpt
+*.sopcinfo
+
+qsys_generated_files/*
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
